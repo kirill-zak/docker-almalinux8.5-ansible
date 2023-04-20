@@ -1,3 +1,5 @@
+# This repository depricated. Using https://github.com/kirill-zak/docker-almalinux-ansible
+
 # AlmaLinux 8.5 Ansible test image
 AlmaLinux 8.5 docker container for Ansible playbook and role testing.
 
